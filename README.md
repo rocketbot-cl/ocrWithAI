@@ -3,7 +3,7 @@ Module to classify files with OCR and AI.
 
 ## Commands
 <ul class="commands_readme">
-    <li>Classify images</li>
+    <li>Classify images from folder</li>
 </ul>
 
 
